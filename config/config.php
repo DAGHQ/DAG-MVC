@@ -4,7 +4,7 @@
 	====================================================*/
 	
 	//Application Name
-	define('APP_NAME', 'Fallout Solutions');
+	define('APP_NAME', 'HCPG');
 
 	//Application Default Controller
 	define('DEFAULT_CONTROLLER', 'Home');
